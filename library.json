@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "updated": "2026-07-06",
+  "organs": [
+    {
+      "id": "jukkasjarvi",
+      "name": "Jukkasjärvi",
+      "description": "Jukkasjärvi church organ (Sweden). 20 stops with tremulant and recorded release tails.",
+      "stops": 20,
+      "version": 1,
+      "zip_root": "build16",
+      "download_url": "https://github.com/i-gsard-i/organ-assets/releases/download/v1/jukkasjarvi-v1.zip",
+      "size_bytes": 844550819,
+      "unpacked_bytes": 854589440,
+      "sha256": "e116aeeb7dc2dbb4d0d527a8133fabe05f4a29c51f3d2d3852dbb42fb1d9b6f1",
+      "license": "Free sample set by Lars Palo (license text to be confirmed and bundled in the package)",
+      "attribution": "Sample set by Lars Palo — Jukkasjärvi church, Sweden"
+    }
+  ]
+}
