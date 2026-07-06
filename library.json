@@ -15,6 +15,20 @@
       "sha256": "e116aeeb7dc2dbb4d0d527a8133fabe05f4a29c51f3d2d3852dbb42fb1d9b6f1",
       "license": "Free sample set by Lars Palo (license text to be confirmed and bundled in the package)",
       "attribution": "Sample set by Lars Palo — Jukkasjärvi church, Sweden"
+    },
+    {
+      "id": "salamander",
+      "name": "Salamander Grand Piano",
+      "description": "Yamaha C5 grand piano (Salamander), 88 keys with velocity layers and sustain. Loads as a single voice.",
+      "stops": 1,
+      "version": 1,
+      "zip_root": "build16Salamander",
+      "download_url": "https://github.com/i-gsard-i/organ-assets/releases/download/v1/salamander-v1.zip",
+      "size_bytes": 165677579,
+      "unpacked_bytes": 184549376,
+      "sha256": "3038db384bb4973d83e275207d21f8bbb0e7027bc7746e8ca338d90fd7cb0c16",
+      "license": "CC BY 3.0",
+      "attribution": "Salamander Grand Piano by Alexander Holm (Yamaha C5) — CC BY 3.0"
     }
   ]
 }
