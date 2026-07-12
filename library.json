@@ -24,9 +24,9 @@
       "version": 1,
       "zip_root": "build16Pitea",
       "download_url": "https://github.com/i-gsard-i/organ-assets/releases/download/v1/pitea-v1.zip",
-      "size_bytes": 375111503,
+      "size_bytes": 375025180,
       "unpacked_bytes": 379532919,
-      "sha256": "062f841de8996e8ba771083c924e1762618c186cf93dde697ef2e08db6326bef",
+      "sha256": "81cd3a1765df8198a1350dd87c21349dc9f5ec412c2c0bababf7b9d1f13f134e",
       "license": "CC BY-SA 2.5 SE",
       "attribution": "Samples by Lars Palo (2010); GrandOrgue edition by Lars Palo, Graham Goode and Panos Ghekas — Piteå School of Music, Sweden"
     },
